@@ -3,6 +3,7 @@ const person ={
     age:29,
     greet() {
         console.log('hi,I am '+this.name);
+        console.log('hi');
     }
 };
 const hobbies=['sports','cooking'];
